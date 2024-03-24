@@ -31,7 +31,7 @@
 
 
 # *Example's With Screen Shot.....
-============================================================================================
+=======================================================================
 ><img src = "https://github.com/Abhi-GhoGhari/invoice_generator_app/assets/143987211/e475e116-60fc-4e3e-9302-4ddbf8e67f1c" width = "250">
 ><img src = "https://github.com/Abhi-GhoGhari/invoice_generator_app/assets/143987211/38ced03a-4f59-440f-808e-e3d64aee37a5" width = "250">
 ><img src = "https://github.com/Abhi-GhoGhari/invoice_generator_app/assets/143987211/c7823c89-db0d-4605-8550-de3f7ae18f06" width = "250">
@@ -51,4 +51,4 @@
 ><img src = "https://github.com/Abhi-GhoGhari/invoice_generator_app/assets/143987211/0a7ad5b6-4441-4b80-b0b8-5960faf541ca" width = "250">
 ><img src = "https://github.com/Abhi-GhoGhari/invoice_generator_app/assets/143987211/b75c2e2d-77ac-4ff1-b4d0-252f316a84fc" width = "250">
 ><img src = "https://github.com/Abhi-GhoGhari/invoice_generator_app/assets/143987211/b2a5f2ea-e7e5-405f-b0f6-6d143ddad6f5" width = "250">
-============================================================================================
+=======================================================================
